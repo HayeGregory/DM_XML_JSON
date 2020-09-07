@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carnet>
+    <personne titre="M.">
+        <nom>Bernard</nom>
+        <prénom>John</prénom>
+        <adresse>
+            <rue>Rue du canal</rue>
+            <numéro>2</numéro>
+            <zip>1140</zip>
+            <commune>Chenois</commune>
+        </adresse>
+    </personne>
+
+    <personne titre="Mme">
+        <nom>Durand</nom>
+        <prénom>Elise</prénom>
+        <adresse>
+            <rue>Avenue Churchill</rue>
+            <numéro>23</numéro>
+            <zip>1180</zip>
+            <commune>Uccle</commune>
+        </adresse>
+    </personne>
+</carnet>
