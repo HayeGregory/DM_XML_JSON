@@ -1,0 +1,9 @@
+{
+    "marque": "Peugeot",
+    "modèle": "205",
+    "année": 1985,
+    "conducteur": {
+        "nom": "Mickey",
+        "prénom": "Mouse"
+    }
+}
